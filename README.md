@@ -1,4 +1,3 @@
-
 ## 👋 About Me
 
 Hi there! I'm Timm Preetz, a passionate software engineer specializing in Flutter mobile app development. I enjoy creating efficient, user-friendly mobile applications and tackling challenging problems in the mobile space by taking a full-stack view.
@@ -29,3 +28,6 @@ Email: timm@preetz.us
 Twitter: [@timmpreetz](http://twitter.com/timmpreetz)  
 Blog: https://timm.preetz.name
 
+## 💼 Hire Me
+
+I'm available for freelance work! If you're looking for a dedicated developer to bring your mobile app ideas to life or need assistance with full-stack development using Flutter & Go, feel free to reach out at www.lunaone.de.
